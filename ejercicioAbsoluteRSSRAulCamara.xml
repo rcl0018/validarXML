@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Lecturas que Inspiran</title>
+    <link>http://lecturasqueinspiran.com</link>
+    <description>Reseñas y recomendaciones de libros que te harán soñar, aprender y crecer.</description>
+    <pubDate>Sun, 27 Apr 2025 16:34:13 GMT</pubDate>
+    <lastBuildDate>Sun, 27 Apr 2025 16:44:52 GMT</lastBuildDate>
+    <generator>Absolute RSS Editor</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>¿Por qué releer clásicos?</title>
+      <link>http://lecturasqueinspiran.com/releer-clasicos</link>
+      <description>¿Por qué releer clásicos?</description>
+      <guid isPermaLink="false">F6CC3D68-BB6F-49B4-B7A1-EC5D4054BCF1</guid>
+      <pubDate>Sun, 27 Apr 2025 16:43:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 Libros para entender el mundo actual</title>
+      <link>http://lecturasqueinspiran.com/mundo-actual</link>
+      <description>Una selección de ensayos que iluminan la sociedad moderna.</description>
+      <author>rcl0018@gmail.com</author>
+      <category>reseñas</category>
+      <enclosure url="https://www.google.es/url?sa=i&amp;url=https%3A%2F%2Felordenmundial.com%2Fdiez-libros-para-entender-mundo-leer-este-verano%2F&amp;psig=AOvVaw0c6K4GVdjSxJ4uroPOEWJG&amp;ust=1745858426095000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBQQjRxqFwoTCIiPvtbT-IwDFQAAAAAdAAAAABAE" length="0" />
+      <guid isPermaLink="false">A3EC553E-F773-4D03-A2E5-2BDBA7AA8270</guid>
+      <pubDate>Sun, 27 Apr 2025 16:39:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>El poder de la imaginación - Reseña</title>
+      <link>http://lecturasqueinspiran.com/imaginacion</link>
+      <description>Un análisis profundo de cómo la literatura fantástica estimula nuestra creatividad</description>
+      <author>rcl0018@gmail.com</author>
+      <enclosure url="https://www.google.es/url?sa=i&amp;url=https%3A%2F%2Fwww.amazon.es%2FEL-PODER-IMAGINACI%25C3%2593N-Claves-Secretas%2Fdp%2F9588391601&amp;psig=AOvVaw3JRHg4-_Rtk8C4OqKG36Ck&amp;ust=1745858295237000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBQQjRxqFwoTCICe6ZjT-IwDFQAAAAAdAAAAABAE" length="0" />
+      <guid isPermaLink="false">98FFB66A-EDBA-4419-995F-4AEEF90E33D7</guid>
+      <pubDate>Sun, 27 Apr 2025 16:34:17 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
