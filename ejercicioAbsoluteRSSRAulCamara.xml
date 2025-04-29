@@ -1,36 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Lecturas que Inspiran</title>
-    <link>http://lecturasqueinspiran.com</link>
-    <description>Reseñas y recomendaciones de libros que te harán soñar, aprender y crecer.</description>
-    <copyright>rcl0018@gmail.com</copyright>
-    <pubDate>Sun, 27 Apr 2025 16:34:13 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Apr 2025 09:24:18 GMT</lastBuildDate>
-    <generator>Absolute RSS Editor</generator>
-    <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>¿Por qué releer clásicos?</title>
-      <link>http://lecturasqueinspiran.com/releer-clasicos</link>
-      <description>¿Por qué releer clásicos?</description>
-      <guid isPermaLink="false">F6CC3D68-BB6F-49B4-B7A1-EC5D4054BCF1</guid>
-      <pubDate>Sun, 27 Apr 2025 16:43:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 Libros para entender el mundo actual</title>
-      <link>http://lecturasqueinspiran.com/mundo-actual</link>
-      <description>Una selección de ensayos que iluminan la sociedad moderna.</description>
-      <enclosure url="https://github.com/rcl0018/validarXML/blob/main/5libros.jpg" length="0" type="image/jpeg" />
-      <guid isPermaLink="false">A3EC553E-F773-4D03-A2E5-2BDBA7AA8270</guid>
-      <pubDate>Sun, 27 Apr 2025 16:39:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>El poder de la imaginación - Reseña</title>
-      <link>http://lecturasqueinspiran.com/imaginacion</link>
-      <description>Un análisis profundo de cómo la literatura fantástica estimula nuestra creatividad</description>
-      <enclosure url="https://github.com/rcl0018/validarXML/blob/main/el-poder-de-la-imaginacion.jpg" length="0" />
-      <guid isPermaLink="false">98FFB66A-EDBA-4419-995F-4AEEF90E33D7</guid>
-      <pubDate>Sun, 27 Apr 2025 16:34:17 GMT</pubDate>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Lecturas que Inspiran</title>
+  <link>http://lecturasqueinspiran.com</link>
+  <description>Reseñas y recomendaciones de libros que te harán soñar, aprender y crecer.</description>
+  <copyright>rcl0018@gmail.com</copyright>
+  <pubDate>Sun, 27 Apr 2025 16:34:13 GMT</pubDate>
+  <lastBuildDate>Mon, 28 Apr 2025 09:24:18 GMT</lastBuildDate>
+  <generator>Absolute RSS Editor</generator>
+  <docs>http://www.rssboard.org/rss-specification</docs>
+
+  <!-- Recomendación para compatibilidad -->
+  <atom:link href="http://lecturasqueinspiran.com/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>¿Por qué releer clásicos?</title>
+    <link>http://lecturasqueinspiran.com/releer-clasicos</link>
+    <description>¿Por qué releer clásicos?</description>
+    <guid isPermaLink="false">F6CC3D68-BB6F-49B4-B7A1-EC5D4054BCF1</guid>
+    <pubDate>Sun, 27 Apr 2025 16:43:44 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>5 Libros para entender el mundo actual</title>
+    <link>http://lecturasqueinspiran.com/mundo-actual</link>
+    <description>Una selección de ensayos que iluminan la sociedad moderna.</description>
+    <enclosure url="https://github.com/rcl0018/validarXML/blob/main/5libros.jpg" length="0" type="image/jpeg"/>
+    <guid isPermaLink="false">A3EC553E-F773-4D03-A2E5-2BDBA7AA8270</guid>
+    <pubDate>Sun, 27 Apr 2025 16:39:01 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>El poder de la imaginación - Reseña</title>
+    <link>http://lecturasqueinspiran.com/imaginacion</link>
+    <description>Un análisis profundo de cómo la literatura fantástica estimula nuestra creatividad</description>
+    <enclosure url="https://github.com/rcl0018/validarXML/blob/main/el-poder-de-la-imaginacion.jpg" length="0" type="image/jpeg"/>
+    <guid isPermaLink="false">98FFB66A-EDBA-4419-995F-4AEEF90E33D7</guid>
+    <pubDate>Sun, 27 Apr 2025 16:34:17 GMT</pubDate>
+  </item>
+
+</channel>
 </rss>
